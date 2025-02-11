@@ -20,6 +20,7 @@ Benimle tanıştığınıza memnun oldum. İşte benimle ilgili bazı bilgiler:
 
 Bana ulaşmak için buradan mesaj gönderebilirsiniz:
 
-- 📧 **E-posta:** [ibrahimerdem132@gmail.com]
-- 🌐 **Web Sitesi:** [ibrahimerdem.org]
+- 📧 **E-posta:** [mail@ibrahimerdem.net]
+- 🌐 **Web Sitesi:** [ibrahimerdem.net]
+- 🌐 **Blog:** [ibrahimerdem.org]
 
